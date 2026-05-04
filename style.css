@@ -48,7 +48,7 @@ nav a:hover {
   color: #ec4899;
 }
 
-/* HERO */
+/* HERO (INI YANG WARNA) */
 .hero {
   display: flex;
   align-items: center;
@@ -64,7 +64,6 @@ nav a:hover {
 
 .hero-text h1 {
   font-size: 40px;
-  color: #111;
 }
 
 .hero-text h2 {
@@ -112,19 +111,19 @@ nav a:hover {
 }
 
 .profile-img {
-  width: 280px;
-  height: 280px;
+  width: 260px;
+  height: 260px;
   object-fit: cover;
   border-radius: 50%;
   border: 5px solid white;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
-/* SECTION */
+/* SECTION (PUTIH CLEAN) */
 .section {
   padding: 60px 10%;
+  background: white;
 }
-
 
 .section h2 {
   margin-bottom: 20px;
