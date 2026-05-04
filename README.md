@@ -30,5 +30,8 @@ A website used to monitor and distribute palm oil efficiently.
 - Project showcase
 - Skills section
 
+## 📸 Preview
+![Desktop](assets/desktop-view.png)
+
 ## 📌 Notes
 This project was built using AI-assisted development, but all code is understood and customized.
